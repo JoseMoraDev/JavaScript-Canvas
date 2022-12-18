@@ -2,7 +2,7 @@
 
 La siguiente imagen es el resultado de **divertirme practicando** lo aprendido en **Desarrollo Web Cliente**:
 
-![PaintBrush](img/dpaint.jpg)
+![PaintBrush](img/dpaint.jpg "Interfaz del antiguo PaintBrush recreada en Canvas de JavaScript")
 
 
 *Hice este programa cuando descubrí el canvas en clase, para practicar, para divertirme y para explorar las posibilidades que ofrece.*
