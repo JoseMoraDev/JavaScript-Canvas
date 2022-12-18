@@ -2,4 +2,5 @@ site_name: JavaScript Canvas
 site_url: https://js_canvas
 nav:
   - Home: index.md
-theme: windmill
+theme:
+  - name: windmill
