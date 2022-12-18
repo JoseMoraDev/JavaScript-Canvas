@@ -1,4 +1,4 @@
-# JavaScript: Dibujando con canvas
+# DDawPaint.exe: Dibujando con canvas
 
 La siguiente imagen es el resultado de **divertirme practicando** lo aprendido en **Desarrollo Web Cliente**:
 
