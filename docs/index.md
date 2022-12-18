@@ -9,6 +9,7 @@ La siguiente imagen es el resultado de **divertirme practicando** lo aprendido e
 
 
 ## ¿Qué puedes hacer en el programa?
+
 * Dibujar con distintos tamaños de pinceles.
     - Los tamaños del pincel van desde 1 hasta 19 píxeles.
 * Elegir entre 10 colores distintos para divertirte dibujando.
@@ -16,10 +17,12 @@ La siguiente imagen es el resultado de **divertirme practicando** lo aprendido e
 * Deshacer y Rehacer cuando necesites mejorar los trazos.
 
 ## ¿Qué **no** puedes hacer en el programa?
+
 * Cambiar el tipo de pincel, solo puede ser circular.
 * Dibujar fuera del área establecida, (*entre "File" y los colores*).
 
 ## ¿Cómo lo he hecho?
+
 *Trazando rectángulos...*
 1. Primero divido todo en rectángulos y los trazo.
 2. Después trazo los detalles.
@@ -27,8 +30,9 @@ La siguiente imagen es el resultado de **divertirme practicando** lo aprendido e
 4. Mediante el método addEventListener defino comportamientos específicos en los distintos elementos del programa, de forma que estos responden a las acciones del usuario.
 
 ## ¿Qué elementos son rectángulos y qué elementos no lo son?
-| Son rectángulos              | No son rectángulos            |
-| ---------------------------- | ----------------------------- |
+
+|       Son rectángulos        |      No son rectángulos       |
+| :--------------------------: | :---------------------------: |
 | Guión, flechas y sus sombras | Contenedores y colores (divs) |
-| Textos                       |                               |
-| Área de dibujo               |                               |
+|            Textos            |                               |
+|        Área de dibujo        |                               |
