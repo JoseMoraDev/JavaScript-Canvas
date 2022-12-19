@@ -3,5 +3,4 @@ site_url: https://josemoradev.github.io/JavaScript-Canvas/docs/
 docs_dir: docs/
 nav:
   - Home: index.md
-theme:
-  - name: windmill
+theme: windmill
