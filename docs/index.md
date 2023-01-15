@@ -4,7 +4,7 @@ La siguiente imagen es el resultado de **divertirme practicando** lo aprendido e
 
 ![PaintBrush](img/dpaint.jpg "Interfaz del antiguo PaintBrush recreada en Canvas de JavaScript")
 
-<img srcset="img/paint_4_s.jpg 1366px, img/paint_3_l.jpg 1280px, img/paint_2_m.jpg 800px, img/paint_1_s.jpg 360px" sizes="50vw" src="img/paint_4_s.jpg" alt="canvas draw example" >
+<img srcset="img/paint_4_s.jpg 1366px, img/paint_3_l.jpg 1280px, img/paint_2_m.jpg 800px, img/paint_1_s.jpg 360px" sizes="(max-width: 700px) 90vw, 50vw" src="img/paint_4_s.jpg" alt="canvas draw example" >
 
 
 *Hice este programa cuando descubrí el canvas en clase, para practicar, para divertirme y para explorar las posibilidades que ofrece.*
