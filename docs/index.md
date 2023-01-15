@@ -3,11 +3,11 @@
 La siguiente imagen es el resultado de **divertirme practicando** lo aprendido en **Desarrollo Web Cliente**:
 
 <picture>
-<source media="(min-width: 1366px)" srcset="img/paint_4_x.jpg">
-<source media="(min-width: 1280px)" srcset="img/paint_3_l.jpg">
+<source media="(min-width: 1280px)" srcset="img/paint_4_x.jpg">
+<source media="(min-width: 1080px)" srcset="img/paint_3_l.jpg">
 <source media="(min-width: 800px)" srcset="img/paint_2_m.jpg">
 <source media="(min-width: 360px)" srcset="img/paint_1_s.jpg">
-<img src="img/paint_1_s.jpg" alt="canvas draw example">
+<img src="img/paint_1_s.jpg" alt="Ejemplo dibujo canvas">
 </picture>
 
 
